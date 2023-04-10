@@ -22,16 +22,19 @@ body {
 
 h2 {
     font-size: 4em;
+    text-shadow: 5px 4px #970b6b;
 }
 
 h1 {
     font-size: 4em;
+    text-shadow: 5px 4px #970b6b;
 }
 
 h3 {
     font-size: 2em;
     margin-top: 30px;
-    color: var(--secondary-color)
+    color: var(--secondary-color);
+    text-shadow: 2px 2px #6c094c;
 }
 
 .mensagem {
