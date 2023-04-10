@@ -57,6 +57,7 @@ h3 {
     background: var(--primary-color);
     border-radius: 5px;
     margin-top:20px;
+    font-family: var(--font-family);
 }
 
 @media screen and (max-width: 600px) {
@@ -75,13 +76,9 @@ h3 {
     }
 
     .box {
-        border: 2px dashed var(--secondary-color);
-        display: inline-block;
         font-size: 2em;
         padding: 5px;
         margin: 10px;
-        text-align: center;
-        color: var(--primary-color);
         padding-left: 15px;
         padding-top: 15px;
     }
